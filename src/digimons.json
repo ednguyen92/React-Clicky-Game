@@ -2,47 +2,37 @@
   {
     "id": 1,
     "image": "http://digimon-adventure.net/images/character/thum_taichi.png",
-    "clicked": true
   },
   {
     "id": 2,
     "image": "http://digimon-adventure.net/images/character/thum_yamato.png",
-    "clicked": false
   },
   {
     "id": 3,
     "image": "http://digimon-adventure.net/images/character/thum_sora.png",
-    "clicked": false
   },
   {
     "id": 4,
     "image": "http://digimon-adventure.net/images/character/thum_koshiro.png",
-    "clicked": false
   },
   {
     "id": 5,
     "image": "http://digimon-adventure.net/images/character/thum_mimi.png",
-    "clicked": false
   },
   {
     "id": 6,
     "image": "http://digimon-adventure.net/images/character/thum_jyo.png",
-    "clicked": false
   },
   {
     "id": 7,
     "image": "http://digimon-adventure.net/images/character/thum_takeru.png",
-    "clicked": false
   },
   {
     "id": 8,
     "image": "http://digimon-adventure.net/images/character/thum_hikari.png",
-    "clicked": false
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
     "image": "http://digimon-adventure.net/images/character/thum_meiko.png",
-    "clicked": false
   }
 ]

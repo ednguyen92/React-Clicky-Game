@@ -1,8 +1,8 @@
 {
+  "homepage": "https://ednguyen92.github.io/React-Clicky-Game/",
   "name": "React-Clicky-Game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ednguyen92.github.io/React-Clicky-Game/",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
